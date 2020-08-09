@@ -1,3 +1,5 @@
+package Easy;
+
 import java.util.Arrays;
 
 public class _1480_RunningSumOf1dArray {
